@@ -1,0 +1,4 @@
+baseURL = 'https://bramvermeulen.github.io/blog/'
+languageCode = 'en-us'
+title = 'Bram Vermeulen'
+theme = 'ananke'

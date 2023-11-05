@@ -1,0 +1,35 @@
+### Hugo ###
+# Generated files by hugo
+/public/
+/resources/
+/resources/_gen/
+/resources/_gen/assets/
+/resources/_gen/images/
+/resources/_gen/page/
+/assets/jsconfig.json
+hugo_stats.json
+
+# Executable may be added to repository
+hugo.exe
+hugo.darwin
+hugo.linux
+
+# Temporary lock file while building
+/.hugo_build.lock
+
+# Ignore the development server file
+/hugo server
+
+# Ignore macOS hidden files
+.DS_Store
+
+# Ignore Windows Thumbs.db files
+Thumbs.db
+
+# Ignore Hugo files that may be in the root directory
+/resources/_gen/page/404.html
+/resources/_gen/page/index.xml
+/resources/_gen/page/sitemap.xml
+
+# Ignore the config.toml file
+/config.toml
